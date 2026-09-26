@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VibeCall</string>
+    <string name="tagline">Video Hangout &amp; Live Match</string>
+    <string name="nav_match">Live Match</string>
+    <string name="nav_friends">Friends</string>
+    <string name="nav_lounges">Hangout Rooms</string>
+    <string name="nav_vip">VIP &amp; Store</string>
+    <string name="nav_profile">My Profile</string>
+</resources>

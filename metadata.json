@@ -1,0 +1,6 @@
+{
+  "name": "VibeCall",
+  "description": "Hangout video calling app to connect with friends and meet new people, featuring free ad-supported matches and VIP subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
